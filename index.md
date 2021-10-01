@@ -47,11 +47,14 @@ __Vietfora.net__, Ho Chi Minh City, Vietnam
 - Responsible for designing UI/UX, coding Frontend/Backend, choosing working tools, building teams, and organizing meetings.
 
 
-## Skills
+## Technical skills
 ReactJs, AngularJs, NodeJs, MongoDB, Pytorch, Python, Javascript, C++,...
 
-## Self taught courses
-__[How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)__
+
+## Attempted courses
+[How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)
+[Deep learning specilization](https://coursera.org/share/d70676e80e5fc9574474b108a48eeb4c)
+[Practical Reinforcement Learning](https://coursera.org/share/58ada0faab7ed668cae259d32399575b)
 
 ### Footer
 *Last updated: Sep 2021*
