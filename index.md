@@ -50,5 +50,8 @@ __Vietfora.net__, Ho Chi Minh City, Vietnam
 ## Skills
 ReactJs, AngularJs, NodeJs, MongoDB, Pytorch, Python, Javascript, C++,...
 
+## Self taught courses
+__[How to create an OS from scratch](https://github.com/cfenollosa/os-tutorial)__
+
 ### Footer
 *Last updated: Sep 2021*
