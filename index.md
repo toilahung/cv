@@ -29,7 +29,7 @@ __Oregon State University__, Corvallis
 
 ## Occupation
 `2020`
-__Mismart.ai__, Ho Chi Minh City, Vietnam
+__[Mismart.ai](mismart.ai)__, Ho Chi Minh City, Vietnam
 - *Deep learning engineer*
 - Building deep learning models for detecting solar panels defects, windturbine surface damages and plants diseases from drones images.
 
@@ -41,7 +41,7 @@ __Nguyenhiep Software__, Ho Chi Minh City, Vietnam
 - Tech stack: AngularJs, NodeJs, MongoDB, AWS,...
 
 `2020`
-__Vietfora.net__, Ho Chi Minh City, Vietnam
+__[Vietfora.net](vietfora.net)__, Ho Chi Minh City, Vietnam
 - *Programmer/ Founder*
 - I saw a need for an online discussion forums for Vietnamese youth. We assembled a team of programmers, marketers and designers and develop this app in three months. It was not a success but I learned a great deal about running a project and coordinating people.
 - Responsible for designing UI/UX, coding Frontend/Backend, choosing working tools, building teams, and organizing meetings.
