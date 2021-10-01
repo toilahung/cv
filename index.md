@@ -2,7 +2,7 @@
 layout: cv
 title: Hung Nguyen's CV
 ---
-# Isaac Newton
+# Hung Nguyen
 Software engineer, science enthusiast.
 
 <div id="webaddress">
@@ -29,7 +29,7 @@ Reinforcement learning, deep learning, gene editing, synthetic biology.
 ## Education
 
 `2020-now`
-__Oregon State University, Corvallis.__
+__Oregon State University__, Corvallis
 
 - Computer Science
 
