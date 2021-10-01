@@ -6,7 +6,7 @@ title: Hung Nguyen's CV
 Software engineer, science enthusiast.
 
 <div id="webaddress">
-<a href="nguyhun2@oregonstate.edu">nguyhun2@oregonstate.edu</a>
+<a href="mailto:nguyhun2@oregonstate.edu">nguyhun2@oregonstate.edu</a>
 | <a href="https://github.com/toilahung">My github profile</a>
 </div>
 
